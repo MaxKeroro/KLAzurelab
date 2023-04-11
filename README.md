@@ -1,3 +1,3 @@
 # Azurelab
 Azurelab
-Pratice GitHub for my skill score
+Pratice GitHub to promote my skills.
